@@ -1,5 +1,5 @@
 let User = require('../model/user');
-//这是自己封装的一个库  发现只有老师的名字可以成功
+//这是自己封装的一个库
 let crypto = require('lxj-crypto');
 let config = require('../config');
 
